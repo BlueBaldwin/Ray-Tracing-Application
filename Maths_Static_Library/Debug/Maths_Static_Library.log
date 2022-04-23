@@ -1,0 +1,11 @@
+﻿  Matrix3.cpp
+  Matrix4.cpp
+C:\Users\scott\OneDrive\Desktop\assessment-2---maths-library-and-ray-tracer-ScottBaldwin0\CT4101_Assessment2_ScottBaldwin\Maths_Static_Library\source\Matrix4.cpp(498,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Random.cpp
+  Ray.cpp
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\scott\OneDrive\Desktop\assessment-2---maths-library-and-ray-tracer-ScottBaldwin0\CT4101_Assessment2_ScottBaldwin\Debug\Maths_Static_Library.exe : fatal error LNK1120: 1 unresolved externals

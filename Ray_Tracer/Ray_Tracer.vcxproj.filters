@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{a811a9c5-664c-4955-867a-9f5d10fb1546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{148ca970-4fa0-4619-b3c2-6751767f08fe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Camera.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ColourRGB.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DirectionalLight.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Ellipsoid.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\IntersectionResponse.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Light.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Material.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MathUtil.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Primitive.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Scene.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\Camera.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\ColourRGB.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\DirectionalLight.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Ellipsoid.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Light.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\MathUtil.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Primitive.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Scene.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\Material.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
